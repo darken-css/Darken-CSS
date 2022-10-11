@@ -1,0 +1,16 @@
+/*!
+ * Darken CSS
+ * v1
+ * Copyright (c) softcode589 and Darken CSS contributors. All rights reserved.
+ */
+body {
+    background-color: black;
+    color: white;
+}
+
+@media screen and (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}
