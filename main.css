@@ -14,3 +14,8 @@ html {
         color: black;
     }
 }
+
+.dcss-light-mode-force {
+    background-color: white;
+    color: black;
+}
