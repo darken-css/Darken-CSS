@@ -4,18 +4,18 @@
  * Copyright (c) softcode589 and Darken CSS contributors. All rights reserved.
  */
 html {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #FFFFFF;
 }
 
 @media screen and (prefers-color-scheme: light) {
     html {
-        background-color: white;
-        color: black;
+        background-color: #FFFFFF;
+        color: #000000;
     }
 }
 
 .dcss-light-mode-force {
-    background-color: white;
-    color: black;
+    background-color: #FFFFFF;
+    color: #000000;
 }
