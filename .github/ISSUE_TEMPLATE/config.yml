@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions
+    url: https://github.com/orgs/darken-css/discussions/categories/q-a
+    about: Any questions? Ask on GitHub Discussions.
