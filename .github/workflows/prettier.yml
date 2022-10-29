@@ -29,3 +29,4 @@ jobs:
         uses: creyD/prettier_action@v4.2
         with:
           commit_message: GH Actions | Run Prettier
+          prettier_options: --write *
